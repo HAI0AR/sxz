@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"81e4ba6a050709bf5a3abad382927292","lockfileHash":"441920d6f936cd7a2877a5c53dabe7fa","guessedImports":["aws-sdk","node-telegram-bot-api","mongodb","request","express"],"guessedImportsHash":"948e5c50b002b9fb9c0ea327298177ea"}}}
